@@ -1,4 +1,94 @@
 body
 {
-    background-color: aqua;
+    margin: 0;
+    text-align: center;
+}
+
+h2
+{
+    font-family: 'IM Fell Great Primer', serif;
+    font-size: 2.5rem;
+    color: #99FEFF;
+    font-weight: normal;
+}
+
+.pro
+{
+    text-decoration: underline;
+}
+
+.top
+{
+    background-color: #B983FF;
+    position: relative;
+    padding-top: 100px;
+}
+
+h1
+{
+    font-family: 'Great Vibes', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #99FEFF;
+    /* line-height: 2; */
+}
+
+h3,a
+{
+    color: #11999E;
+}
+
+
+.top .bottom-cloud
+{
+    position: absolute;
+    left: 25.75rem;
+}
+
+.top .top-cloud
+{
+    position:relative;
+    left: 250px;
+
+}
+
+.iam
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.middle .profile .profile_photo
+{
+    border-radius: 100%;
+    height: 12.5%;
+    width: 12.5%;
+    background-color: silver;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.monitor-pic
+{
+    float: left;
+    margin-right: 30px;
+}
+
+.code-pic
+{
+    float: right;
+    margin-left: 30px;
+}
+
+.code-pic, .monitor-pic
+{
+    width: 25%;
+}
+
+.code-desc
+{
+    margin-bottom: 150px;
 }
