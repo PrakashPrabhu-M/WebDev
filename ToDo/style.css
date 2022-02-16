@@ -1,0 +1,51 @@
+body
+{
+    background-color: #94B3FD;
+    margin: 0;
+}
+
+.menu
+{
+    background-color: #B983FF;
+    width: 12vw;
+    height: 100vh;
+    margin: 0 4vw 0 0;
+    float: left;
+    border-style: outset;
+
+}
+
+.Todo
+{
+    padding: 1vh;
+    background-color: #94DAFF;
+    position: absolute;
+    left: 15vw;
+    top: 2vw;
+    width: 20vw;
+    border-style: ridge;
+}
+
+.Bootcamp-attendees
+{
+    padding: 1vh;
+    background-color: #94DAFF;
+    position: absolute;
+    top: 25vh;
+    left: 15vw;
+    width: 20vw;
+    border-style: ridge;
+}
+
+.Calendar
+{
+    padding: 5px;
+    background-color: #99FEFF;
+    position: absolute;
+    top: 4vh;
+    left: 40vw;
+    width: 50rem;
+    height: 25rem;
+    text-align: center;
+    border-style: ridge;
+}
